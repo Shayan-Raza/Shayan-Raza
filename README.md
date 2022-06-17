@@ -39,6 +39,7 @@
 
 - Version Control **Git**
 - Code editor **VS Code**
+- Operating System **Linux (Ubuntu)**
 
 <h2> Socials </h2>
 <a target="_blank" href="mailto:shayanraza07@gmail.com"
