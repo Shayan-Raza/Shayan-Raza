@@ -30,11 +30,13 @@
 
 <h3>Coding</h3>
 
-- Web-scraping with **Beautiful Soup**
-- Exploratory Data Analysis with **Pandas**
-- Data Visualization with **Matplotlib**,**Seaborn** and **Plotly**
-- Machine learning (Supervised) with **Scikit-learn**
-- Database management with **SQL**
+- **Python**
+  - Web-scraping with **Beautiful Soup**
+  - Exploratory Data Analysis with **Pandas**
+  - Data Visualization with **Matplotlib**,**Seaborn** and **Plotly**
+  - Machine learning (Supervised) with **Scikit-learn**
+
+- **SQL**
 
 <h3>Tools</h3>
 
