@@ -37,6 +37,7 @@
   - Machine learning (Supervised) with **Scikit-learn**
 
 - **SQL**
+- **R**
 
 <h3>Tools</h3>
 
