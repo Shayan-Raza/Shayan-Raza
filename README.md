@@ -35,6 +35,7 @@
   - Exploratory Data Analysis with **Pandas**
   - Data Visualization with **Matplotlib**,**Seaborn** and **Plotly**
   - Machine learning (Supervised) with **Scikit-learn**
+  - Data web apps with **Streamlit**
 
 - **SQL**
 - **R**
