@@ -1,4 +1,4 @@
-<h2> About Me! </h2>
+# About Me!
 
 - :id: Im a 15 year old boy living in Qatar
 - :date: Coding since 2021
@@ -6,29 +6,37 @@
 - 🤔 I’m a keen learner
 - 💬 Ask me about anything you feel like
 
-<h2> Projects / Experiences </h2>
+# Projects / Experiences
 <details>
-<summary> <b><u><i><a href = "https://drive.google.com/drive/folders/1WM3H-_CNg9tFSCV3VohUZTDkzjIkigsn?usp=sharing" target = "_blank"> Freelance Graphic Design / Online Store selling a Youtube Pack (2020-2022)</a> </li></b></h3></u> </i> </summary>
-<h3> What I did: </h3>
-<ul>
-<li> Edited Videos for clients </li>
-<li> Edited Photos for clients </li>
-<li> Made a Logo, thumbnail and banner pack for customers </li>
-</ul>
-<h3>What I learnt: </h3>
-<ul> 
-<li>How to price items and services </li>
-<li> Communication </li>
-<li> Negotiating </li>
+<summary> <b><u><i><a href = "https://drive.google.com/drive/folders/1WM3H-_CNg9tFSCV3VohUZTDkzjIkigsn?usp=sharing" target = "_blank"> Providing services as a freelancer(2020-Now)</a> </li></b></h3></u> </i> </summary>
+
+### What I did: 
+-  Edited Videos for clients
+-  Edited Photos for clients
+-  Created data web-apps for clients 
+-  Created linux wm configs for clients
+### What I learnt:
+ 
+- How to price items and services
+- Communication
+- Negotiating
 </details>
-<h2>Skills</h2> 
-<h3> Graphic Design </h3>
+
+<details>
+<summary> <b><u><i><a href = "https://github.com/Shayan-Raza/Cryptocurrency-data-web-app" target = "_blank"> Cryptocurrency web-app</a> </li></b></h3></u> </i> </summary>
+
+  #### A cryptocurrency webapp that uses the coinmarketcap API to fetch data. Then allows the user to query data and view metrics 
+
+</details>
+
+# Skills 
+## Graphic Design
 
 - Video-editing with **Premiere Pro** 
 - Photo-editing with **Photoshop**
 - Motion-graphics with **After-Effects**
 
-<h3>Coding</h3>
+## Coding
 
 - **Python**
   - Web-scraping with **Beautiful Soup**
@@ -41,7 +49,7 @@
 - **SQL**
 - **R**
 
-<h3>Tools</h3>
+## Tools
 
 - Version Control **Git**
 - Code editor **VS Code**
