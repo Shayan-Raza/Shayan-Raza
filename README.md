@@ -22,13 +22,6 @@
 - Negotiating
 </details>
 
-<details>
-<summary> <b><u><i><a href = "https://github.com/Shayan-Raza/Cryptocurrency-data-web-app" target = "_blank"> Cryptocurrency web-app</a> </li></b></h3></u> </i> </summary>
-
-  #### A cryptocurrency webapp that uses the coinmarketcap API to fetch data. Then allows the user to query data and view metrics 
-
-</details>
-
 # Skills 
 ## Graphic Design
 
