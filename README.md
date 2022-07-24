@@ -49,9 +49,12 @@
 - Code editor **VS Code**
 - Operating System **Linux**
 
-<h2> Socials </h2>
-<a target="_blank" href="mailto:shayanraza07@gmail.com"
-><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+## Github stats
+[![Shayans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shayan-Raza)](https://github.com/anuraghazra/github-readme-stats)
+
+## Socials 
+
+<a target="_blank" href="mailto:shayanraza07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://twitter.com/_shayanraza"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <a target="_blank" href="https://www.instagram.com/_shayanraza/"><img src="https://img.shields.io/badge/-Instagram-833AB4?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
 <a target="_blank" href="https://stackoverflow.com/users/18269247/shayan-raza"><img src="https://img.shields.io/badge/-StackOverflow-f48024?style=for-the-badge&logo=Stack-Overflow&logoColor=white"></img></a>
