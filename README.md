@@ -50,7 +50,7 @@
 - Operating System **Linux**
 
 ## Github stats
-[![Shayans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shayan-Raza)](https://github.com/anuraghazra/github-readme-stats)
+![Shayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shayan-Raza&show_icons=true&theme=dark)
 
 ## Socials 
 
