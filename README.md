@@ -23,13 +23,7 @@
 </details>
 
 # Skills 
-## Graphic Design
-
-- Video-editing with **Premiere Pro** 
-- Photo-editing with **Photoshop**
-- Motion-graphics with **After-Effects**
-
-## Coding
+### Coding
 
 - **Python**
   - Web-scraping with **Beautiful Soup**
@@ -40,13 +34,14 @@
   - Data web apps with **Streamlit** and **Plotly Dash**
 
 - **SQL**
-- **R**
-- **Bash**
+  - MySQL
+  - SQLLite
+ 
+- **Bash Scripting**
 
-## Tools
+### Tools
 
 - Version Control **Git**
-- Code editor **VS Code**
 - Operating System **Linux**
 
 ## Github stats
