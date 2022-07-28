@@ -49,7 +49,7 @@
 
 ## Socials 
 
-<a target="_blank" href="mailto:shayanraza07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://matrix.to/#/@shayan-raza:matrix.org"><img src="https://img.shields.io/badge/-Matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white"></img></a>
 <a target="_blank" href="https://twitter.com/_shayanraza"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <a target="_blank" href="https://www.instagram.com/_shayanraza/"><img src="https://img.shields.io/badge/-Instagram-833AB4?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
 <a target="_blank" href="https://stackoverflow.com/users/18269247/shayan-raza"><img src="https://img.shields.io/badge/-StackOverflow-f48024?style=for-the-badge&logo=Stack-Overflow&logoColor=white"></img></a>
