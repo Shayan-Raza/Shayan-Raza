@@ -35,7 +35,7 @@
 
 - **SQL**
   - MySQL
-  - SQLLite
+  - SQL-Lite
  
 - **Bash Scripting**
 
