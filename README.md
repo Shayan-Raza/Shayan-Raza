@@ -31,7 +31,7 @@
   - Data Visualization with **Matplotlib**,**Seaborn** and **Plotly**
   - Machine learning (Supervised) with **Scikit-learn**
   - Computer Vision with **OpenCV**
-  - Data web apps with **Streamlit** and **Plotly Dash**
+  - Data web apps with **Streamlit**
 
 - **SQL**
   - MySQL
